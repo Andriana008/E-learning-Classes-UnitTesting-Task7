@@ -1,0 +1,7 @@
+C:\Users\Olya\Desktop\Classes_task_7\Classes_task_7\bin\Debug\Classes_task_7.exe.config
+C:\Users\Olya\Desktop\Classes_task_7\Classes_task_7\bin\Debug\Classes_task_7.exe
+C:\Users\Olya\Desktop\Classes_task_7\Classes_task_7\bin\Debug\Classes_task_7.pdb
+C:\Users\Olya\Desktop\Classes_task_7\Classes_task_7\obj\Debug\Classes_task_7.csprojResolveAssemblyReference.cache
+C:\Users\Olya\Desktop\Classes_task_7\Classes_task_7\obj\Debug\Classes_task_7.csproj.CoreCompileInputs.cache
+C:\Users\Olya\Desktop\Classes_task_7\Classes_task_7\obj\Debug\Classes_task_7.exe
+C:\Users\Olya\Desktop\Classes_task_7\Classes_task_7\obj\Debug\Classes_task_7.pdb
