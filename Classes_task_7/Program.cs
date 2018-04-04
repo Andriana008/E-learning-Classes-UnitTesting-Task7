@@ -11,11 +11,7 @@ namespace Classes_task_7
         private double re;
         private double im;
 
-        public ComplexNumber()
-        {
-            re = 0;
-            im = 0;
-        }
+        public ComplexNumber() : this(0, 0) { }        
 
         public ComplexNumber(double _re, double _im)
         {
