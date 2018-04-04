@@ -114,7 +114,7 @@ namespace Classes_task_7_Tests
             expected.Add(new ComplexNumber(2, 2));
             expected.Add(new ComplexNumber(2, 6));
             //act
-            List<ComplexNumber> actual = Program.Sum(a, b);
+            List<ComplexNumber> actual = Task.Sum(a, b);
             //assert
             CollectionAssert.AreEqual(expected, actual);
         }
@@ -133,7 +133,7 @@ namespace Classes_task_7_Tests
             expected.Add(new ComplexNumber(0, 0));
             expected.Add(new ComplexNumber(2, -1));
             //act
-            List<ComplexNumber> actual = Program.Subtraction(a, b);
+            List<ComplexNumber> actual = Task.Subtraction(a, b);
             //assert
             CollectionAssert.AreEqual(expected, actual);
         }
@@ -150,7 +150,7 @@ namespace Classes_task_7_Tests
             b.Add(new ComplexNumber(1, 3));
             ComplexNumber expected = new ComplexNumber(12, 0);
             //act
-            ComplexNumber actual = Program.Multiplication(a, b);
+            ComplexNumber actual = Task.Multiplication(a, b);
             //assert
             Assert.AreEqual(expected, actual);
         }
